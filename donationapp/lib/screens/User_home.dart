@@ -114,7 +114,7 @@ class _UserViewState extends State<UserView> {
                 ),
                 child: ListTile(
                   contentPadding: const EdgeInsets.all(
-                      16), // Add padding to the entire ListTile
+                      16),
                   onTap: () {
                     Navigator.push(
                       context,
@@ -173,8 +173,7 @@ class _UserViewState extends State<UserView> {
   }
 
   Color _getBadgeColor(String bloodGroup) {
-    // Customize the badge color based on the blood group if needed.
-    // You can set specific colors for different blood groups.
+    
     return Colors.red; // Change this color as needed.
   }
 }
