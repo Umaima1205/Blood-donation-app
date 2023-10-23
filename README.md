@@ -18,4 +18,9 @@ A Blood Donation app built with flutter and firebase
 - List of all the donors available
 - User can register itself as a donor
 
+# an overvire of how the app looks like:
+
+
+https://github.com/Umaima1205/Blood-donation-app/assets/112200777/09f582a7-fe45-46ce-9e93-d32f75ebad8e
+
 
