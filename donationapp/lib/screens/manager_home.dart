@@ -38,36 +38,7 @@ class _HomeViewState extends State<HomeView> {
     centerTitle: true,
     toolbarHeight: 70,
     elevation: 0,
-    // leading: IconButton(
-    //   icon: const Icon(
-    //     CupertinoIcons.add_circled,
-    //     size: 30,
-    //     color: Colors.white,
-    //   ),
-    //   onPressed: () {
-    //     Navigator.push(
-    //       context,
-    //       MaterialPageRoute(builder: (context) {
-    //         return DonorForm();
-    //       }),
-    //     );
-    //   },
-    // ),
-    // actions: [
-    //   GestureDetector(
-    //     onTap: () {
-    //      logout(context); // Open the drawer
-    //     },
-    //     child: Container(
-    //       margin: const EdgeInsets.symmetric(horizontal: 18.0),
-    //       child: const Icon(
-    //         CupertinoIcons.arrow_right_circle_fill,
-    //         size: 25.0,
-    //         color: Colors.white,
-    //       ),
-    //     ),
-    //   ),
-    // ],
+ 
   ),
   drawer: Drawer(
     child: ListView(
@@ -170,7 +141,7 @@ class _HomeViewState extends State<HomeView> {
         ),
       ),
       child: ListTile(
-        contentPadding: const EdgeInsets.all(16), // Add padding to the entire ListTile
+        contentPadding: const EdgeInsets.all(16), 
         onTap: () {
           Navigator.push(
             context,
