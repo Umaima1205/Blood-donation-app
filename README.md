@@ -1,6 +1,6 @@
 # Blood-donation
 
-A Blood Donation built with flutter
+A Blood Donation app built with flutter and firebase
 
 # This app includes:
 - A Splash Screen
