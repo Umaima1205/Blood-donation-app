@@ -9,13 +9,13 @@ A Blood Donation built with flutter
 - Different screens for user based on their role
 
 #Manager App Part includes:
--A Home Page
--List of all the the Donors Registered on the App
--Manager can add, edit and delete Donors
+- A Home Page
+- List of all the the Donors Registered on the App
+- Manager can add, edit and delete Donors
 
 #User App Part includes:
--A Home Page
--List of all the donors available
--User acn register itself as a donor
+- A Home Page
+- List of all the donors available
+- User can register itself as a donor
 
 
