@@ -8,12 +8,12 @@ A Blood Donation app built with flutter and firebase
 - Role Based User Authentication using FireBase
 - Different screens for user based on their role
 
-#Manager App Part includes:
+# Manager App Part includes:
 - A Home Page
 - List of all the the Donors Registered on the App
 - Manager can add, edit and delete Donors
 
-#User App Part includes:
+# User App Part includes:
 - A Home Page
 - List of all the donors available
 - User can register itself as a donor
