@@ -30,6 +30,5 @@ A Blood Donation app built with flutter and firebase
 
 
 
-https://github.com/Umaima1205/Blood-donation-app/assets/112200777/09f582a7-fe45-46ce-9e93-d32f75ebad8e
 
 
