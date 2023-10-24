@@ -1,4 +1,4 @@
-# Blood-donation
+# Blood-donation App
 
 A Blood Donation app built with flutter and firebase
 
@@ -18,7 +18,7 @@ A Blood Donation app built with flutter and firebase
 - List of all the donors available
 - User can register itself as a donor
 
-# an overvire of how the app looks like:
+# An overvire of how the app looks like:
 
 
 ![WhatsApp Image 2023-10-24 at 04 08 40_5b740c54](https://github.com/Umaima1205/Blood-donation-app/assets/112200777/63aec588-0aa3-4033-b785-a67255d0654b)
